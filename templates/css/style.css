@@ -1,0 +1,109 @@
+body, h1, h2, p{
+    margin: 0;
+    padding: 0;
+}
+p{
+    text-indent: 10px;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+#content{
+    margin: auto;
+    width: 900px;
+}
+#news{
+    margin: 20px;
+}
+header{
+    background: black;
+    height: 40px;
+}
+header h1{
+    color: white;
+}
+footer{
+
+    background: black;
+    height: 40px;
+}
+#single_new_content{
+    margin: auto;
+    width: 900px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    min-height: 600px;
+    padding: 10px;
+    background: wheat;
+    
+}
+
+#func{
+    margin: 15px;
+}
+#register_form{
+    height: 50px;
+    width: 150px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+#register a{
+    padding: 1px;
+    font-size: 20px;
+    margin: 4px;
+}
+#register a:hover{
+    background: red;
+}
+#register{
+    float: right;
+    background: white;
+    padding: 2px;
+    margin-right: 40px;
+    margin-top: 6px;
+}
+#logo{
+    margin-left: 100px;
+    width: 125px;
+}
+hr{
+    color:white;
+}
+
+#error{
+    background: lightsalmon;
+    border: 1px solid #ff3333;
+    text-align: center;
+}
+
+#add_new{
+    margin: auto;
+    height: 300px;
+    width: 300px;
+
+}
+#add_new textarea{
+    width: 400px;
+    height: 150px;
+}
+#button_add{
+    padding: 2px;
+    text-align: center;
+    width: 200px; 
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: #ccccff;
+}
+#button_add:hover{
+    background: #9999ff;
+}
+
+#status center{
+    color: green;
+}
+#status a{
+    color: blue;
+}
